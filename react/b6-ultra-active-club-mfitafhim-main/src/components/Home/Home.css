@@ -1,0 +1,43 @@
+.activities-container{
+    padding: 50px 100px 0px 100px;
+}
+.logo{
+    width: 50px;
+}
+.cart-container{
+    padding: 40px;
+    background-color: #e9f3f8;
+}
+.break{
+    padding: 25px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+.break p{
+    padding: 10px;
+    margin: 0;
+    cursor: pointer;
+    background-color: #eeeeee;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.break p:hover{
+    background-color: #7b7fdf;
+}
+.exercise-detail{
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
